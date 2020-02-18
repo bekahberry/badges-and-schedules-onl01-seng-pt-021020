@@ -10,4 +10,5 @@ def badge_maker(name)
   return new_array
 end
     
+    
    
